@@ -29,7 +29,6 @@ Using a ubuntu docker ,configuring tmate and *forcing* the build to fail, users 
 - Enable this repo in DroneCI
 
 - Trigger the build 
-
 - Let it fail 
 
 - Re-run the build by clicking debug (the cockroach-like button)
