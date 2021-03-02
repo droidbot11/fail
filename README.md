@@ -8,7 +8,7 @@ i am totally not responsible about what you do with this repo. You have full rig
 ```
 
 
-#### - How it works? ####
+#### - How it works  ? ####
 
 DroneCI has a mechanism to run failed builds with SSH access, after it fails. However, most Docker images I can find are alpine (shitty af in my opinion) + do NOT have tmate and makes the feature totally useless.
 
